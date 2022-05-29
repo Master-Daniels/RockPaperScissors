@@ -47,5 +47,3 @@ messageAfter5plays =
     ? "Oh no this mindless machine wins, try again"
     : "It's a Tie";
 console.log(messageAfter5plays);
-
-//something to add
