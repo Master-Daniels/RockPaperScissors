@@ -38,7 +38,7 @@ const oneRound = (user, bot) => {
     }
     const message =
       userScore > botScore
-        ? "Hooray youve have won after 5 rounds"
+        ? "Hooray you've have won after 5 rounds"
         : botScore > userScore
         ? "Oh no this mindless machine wins, Try again"
         : "You tied, Try again";
